@@ -1,4 +1,17 @@
 body {
     background-color:blueviolet;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:black;
+}
+
+li,a {
+    color:aliceblue;
+}
+
+a:hover {
+    color:coral;
+}
+
+a:active {
+    color:black;
 }
